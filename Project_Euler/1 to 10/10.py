@@ -8,4 +8,4 @@ def eratosthen(n):
                 masieve[j] = 0
     return masieve
 
-print(sum(eratosthen(2000000)))
+print(sum(eratosthen(2000000))) # 142913828922
